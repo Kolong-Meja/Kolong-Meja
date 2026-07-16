@@ -105,8 +105,8 @@ Rebuilding my personal portfolio with a heavy focus on the animation layer — *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kolong-Meja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faisal's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolong-Meja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Kolong-Meja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faisal's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kolong-Meja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
